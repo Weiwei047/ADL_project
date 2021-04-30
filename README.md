@@ -2,4 +2,4 @@
 ### Detecting Cancer Metastases on Gigapixel Pathology Images
 #### Author: Haokai Zhao (hz2477), Weiwei Zhan (wz2483)
 
-Youtube Link:
+Youtube Link: https://youtu.be/nZUC6YGjmPk
